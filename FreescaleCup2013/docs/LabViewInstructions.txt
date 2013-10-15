@@ -1,0 +1,9 @@
+1.- First install the LabVIEW.
+
+ 
+
+2- Then install the NI Device drivers: NI Device Drivers 2013.02 - National Instruments
+
+ 
+
+3.- Finally install the NI VISA drivers: NI-VISA 5.4 - National Instruments
